@@ -10,7 +10,7 @@
 --------
 
 <p align="left">
-  🖥️ Linguagens e Ferramentas:
+  🖥️ <strong>Linguagens e Ferramentas:</strong><br>
  <p align="left"> 
    <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
    <img align="center" height="50" width="50" src="https://github.com/mandsd/mandsd/assets/105010000/4d99f045-0ded-43dc-a894-d0b5f14e76f5">
@@ -28,8 +28,12 @@
 
 --------
 
+![Top Langs](https://github-readme-stats-delta-eosin-75.vercel.app/api/top-langs/?username=alannatomaz&layout=compact&theme=jolly)
+
+--------
+
 <p align="left">
-  📱 Entre em contato: 
+  📱 <strong>Entre em contato:</strong><br> 
 <p align="center">
 
 <div>
