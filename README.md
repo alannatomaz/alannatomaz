@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- 👩‍💻 <strong>Hi, i'm Alanna!</strong><br>
+ 👩‍💻 <strong> Oi, eu sou a Alanna (:</strong><br>
   
-  Sou estudante de Ciência da Computação, com interesse em desenvolvimento de software e pesquisa em tecnologia da informação
+  Estudante de Ciência da Computação, focada em desenvolvimento full stack e ciência de dados
 
 </p>
 
@@ -22,8 +22,7 @@
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-          
-  
+            
           
 </p>
 
@@ -31,14 +30,13 @@
 
 <p align="left">
   📱 Entre em contato: 
-</p>
+<p align="center">
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=alannatomaz2@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alannatomaz/" alt="LinkedIn"/></a>
-    <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/alannatomaz/" alt="Instagram"/></a>
+<div>
+  <a align="center" href="https://www.linkedin.com/in/alannatomaz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a align="center" href = "mailto:alannatomaz2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ 
+ </div>
+
 </p>
 
