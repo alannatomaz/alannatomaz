@@ -28,11 +28,11 @@
 
 --------
 
-![Top Langs](https://github-readme-stats-delta-eosin-75.vercel.app/api/top-langs/?username=alannatomaz&layout=compact&theme=jolly)
+<!--![Top Langs](https://github-readme-stats-delta-eosin-75.vercel.app/api/top-langs/?username=alannatomaz&layout=compact&theme=jolly)
 
 --------
 
-<p align="left">
+--><p align="left">
   📱 <strong>Entre em contato:</strong><br> 
 <p align="center">
 
